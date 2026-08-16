@@ -137,4 +137,5 @@ The copy inside the app is the version that shipped with the build you have inst
 ## Contact
 
 Wang Rui, Singapore
+
 vouch.app.sg@gmail.com
